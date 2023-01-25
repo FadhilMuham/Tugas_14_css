@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+}
+.container3{
+    display: flex;
+}
+
+.box{
+    height: 10px;
+    padding: 30px;
+    width: 100px;
+    text-align: center;
+}
+.box1{
+    background-color: aquamarine;
+}
+.box2{
+    background-color: rgb(103, 255, 179);
+}
+.box3{
+    background-color: blue;
+}
+.box4{
+    background-color: purple;
+}
+.box5{
+    background-color: rgb(39, 0, 83);
+}
+.box6{
+    background-color: rgb(255, 238, 0);
+}
+.box7{
+    background-color: orange;
+}
+.box8{
+    background-color: red;
+}
+.box9{
+    background-color: grey;
+}
+.box10{
+    background-color: darkgray;
+}
